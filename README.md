@@ -1,13 +1,13 @@
 # AI-Powered-Secure-Authentication-System---IOB
 A  AI-powered secure authentication system designed for the IOB banking platform to reduce password dependency, eliminate SMS vulnerabilities, enable real-time monitoring, and defend against phishing attacks. Built with advanced behavioral biometrics, QR-based login, smart OTP, and phishing detection mechanisms.
 
-# 🔐 AI-Powered Secure Authentication System for IOB Banking
+# AI-Powered Secure Authentication System for IOB Banking
 
 A complete AI-powered authentication suite designed for the Indian Overseas Bank (IOB) to enhance digital banking security by reducing password dependency, eliminating SMS-based vulnerabilities, enabling real-time behavioral monitoring, and protecting users from phishing threats.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 ### 1. **AdaptiveX**
 A passwordless QR-based authentication mechanism that allows users to securely log in by scanning a QR code via the IOB mobile app — improving user experience and reducing password fatigue.
@@ -31,13 +31,13 @@ An intelligent phishing detection component that identifies and blocks access to
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
-- **Frontend**: React / Tailwind CSS
-- **Backend**: Django / FastAPI
-- **AI Models**: TensorFlow / PyTorch
-- **Phishing Detection**: URL & content analysis (custom ML)
-- **Database**: PostgreSQL / SQLite (for testing)
+- **Frontend**: HTML,CSS & JS
+- **Backend**: Flask,Node.js
+- **AI Models**: Isolation Forest Algorithm
+- **Phishing Detection**: Virus total DB, Google safe browsing API
+- **Database**: Goolge FireBase 
 
 ---
 
